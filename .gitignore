@@ -36,6 +36,7 @@ build/
 target
 bower_components
 node_modules
+.mvn
 node
 *.log
 asciidoctor.css
